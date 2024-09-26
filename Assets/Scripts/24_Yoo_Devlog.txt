@@ -63,7 +63,7 @@ Current Task: Writing the Long Buildings(Obstacle) Movement Script
 Developed the BuildingMovement script to move obstacles from left to right.
 Added logic to destroy obstacles when they move off-screen.
 
-24_0917 19:00
+24_0916 19:00
 
 Current Task: Implementing Collision Logic
 Updated PlayerScript to handle collision detection with obstacles.
@@ -71,7 +71,7 @@ Changed the player sprite based on the number of collisions.
 Added a simple game-over condition after three collisions but I guess I need to fix it
 
 
-24_0916 20:00
+24_0917 20:00
 
 Current Task: Game Manager Implementation
 Still working on the GameManagerScript to manage the game state, including score tracking but seems to be quite akward
@@ -82,4 +82,18 @@ Adding logic to increase score when the player successfully passes an obstacle b
 Current Task: Preparing the necessary files for submission: Even if I make adjustments later, I need to get things ready in advance since there's a deadline
 Struggling with DeepL translator to translate all the comments and notes that I wrote: Kor ->Eng
 translated results seems to be a bit rigid
-Kinda envying English-First-Language developers
+
+
+24_0919 13:00
+
+current task: learnig how to make animations but found it hard to make it through the exit state or something
+Minor bug fixing: having trouble with tags
+Wanna make animations in my game but just thinking about the methods and something related to that kinda stuff
+Thinking of combining animation in my first prototype: so there there would be ver.1(non-animation) and ver.2(animation applied) to my Cityscape game
+Minor bug fixing again: having trouble with score counting so I might wanna check some Unity youtubers again
+
+
+24_0921 20:00
+current task:fixing some bug related to score increasing
+    Problem(solved): I was supposed to attach the newer version of the UI(score text) after making some adjustments(layer... code.. etc.) on that
+                       ...but I didnt cuz I thought the adjustments would be automatically applied to the older version of ScoreText
